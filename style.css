@@ -1,0 +1,35 @@
+.link_text{
+    text-align: center;
+}
+.youtube_vid{
+    text-align: center;
+}
+.main_text{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.safety_article{
+    font-size: large;
+    
+}
+.two_picks{
+    justify-content:center;
+    display: flex;
+}
+.three_buttons{
+    justify-content: center;
+    display: flex;
+}
+.tf{
+    width: 350px;
+    height: 100px;
+}
+.my_aqua{
+    background-color:blueviolet;
+}
+.my_green{
+    background-color:rgb(200, 147, 250);
+}
+.my_yellow{
+    background-color: rgb(228, 17, 210);
+}
